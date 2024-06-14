@@ -1,0 +1,1 @@
+# smlwiki-assets
